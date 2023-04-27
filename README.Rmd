@@ -33,5 +33,3 @@ You can install the development version of afpca from [GitHub](https://github.co
 install.packages("devtools")
 devtools::install_github("angelgar/funcovTests")
 ```
-
-Test Test
