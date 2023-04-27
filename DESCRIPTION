@@ -1,0 +1,18 @@
+Package: funcovTests
+Title: Two Sample Test for Eigendecompositions of functional data  
+Version: 0.9
+Authors@R: 
+    c(person("Angel", "Garcia de la Garza", , "ag3914@columbia.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-6062-5190")),
+      person("Jeff", "Goldsmith", role = "aut", email = "jeff.goldsmith@columbia.edu"),
+      person("Britton", "Sauerbrei", role = "aut", email = "bxs561@case.edu")
+    )
+Description: An implementation of two sample gendecomposition tests for independent and paired functional data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports:
+    refund,
+    HDtest,
+    stats
