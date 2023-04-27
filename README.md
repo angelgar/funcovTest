@@ -14,6 +14,10 @@ stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://
 
 Two Sample Test for Eigendecompositions of functional data
 
+Our software performs various tests on functional data using a
+standardized score covariance matrix difference. It works for both
+independent and paired datasets, allowing more flexible data analysis.
+
 - Authors: [Angel Garcia de la Garza](http://angelgarciadelagarza.com),
   [Britton Sauerbrei](https://sauerbreilab.org/), [Jeff
   Goldsmith](https://jeffgoldsmith.com/)
